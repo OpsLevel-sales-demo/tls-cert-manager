@@ -2,7 +2,7 @@
 
 This file defines guidelines and guardrails for AI coding agents working in this repository.
 
-## Security and Safety Guidelines
+## Security Guidelines
 
 AI coding agents must follow these rules at all times when working in this repository.
 
